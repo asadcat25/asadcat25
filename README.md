@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asadcat25
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning piano, c++, and guitar
+- 🌱 I'm currently learning c++, guitar, and is a bedroom DJ
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me {insta is the same name a profile}
 
